@@ -1,4 +1,3 @@
-﻿================
 Overview
 ================
 
@@ -15,7 +14,6 @@ DummyConsumer - A console app that demonstrates the usage of generated traffic C
 DummyAPI - A simple API that uses Swagger
 
 
-================
 Configuration
 ================
 
@@ -38,12 +36,10 @@ Sample Traffic Generate JSON File
 	]
 }
 
-============
 App Settings
 ============
 RestTrafficGenerateFile - Base directory of a "generated traffic" file
 
-============
 Usage
 ============
 
