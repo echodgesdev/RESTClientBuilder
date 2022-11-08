@@ -1,0 +1,6 @@
+C:\Users\chodges\source\repos\RESTClientBuilder\DummyAPI\bin\Debug\netcoreapp3.1\DummyAPI.dll
+C:\Users\chodges\source\repos\RESTClientBuilder\DummyAPI\bin\Debug\netcoreapp3.1\DummyAPI.pdb
+C:\Users\chodges\source\repos\RESTClientBuilder\DummyAPI\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+C:\Users\chodges\source\repos\RESTClientBuilder\DummyAPI\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\chodges\source\repos\RESTClientBuilder\DummyAPI\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\chodges\source\repos\RESTClientBuilder\DummyAPI\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll

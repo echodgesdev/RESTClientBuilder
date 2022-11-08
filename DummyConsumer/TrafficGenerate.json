@@ -1,0 +1,12 @@
+﻿{
+	"baseUrlDefault": "http://updateTheBaseUrlInYourFacade/",
+	"cSharpOutputPathRootDirectory": "C:\\Users\\chodges\\source\\repos\\RESTClientBuilder\\DummyConsumer\\Generated\\CSharp",
+	"typeScriptOutputPathRootDirectory":"C:\\Users\\chodges\\source\\repos\\RESTClientBuilder\\DummyConsumer\\Generated\\TS",
+	"swaggerSpecs": [
+		{
+			"importSwaggerURL": "https://localhost:44367/swagger/v1/swagger.json",
+			"exportNamespace": "Traffic.RestClients.DummyAPI",
+			"exportClassName": "DummyAPIClient"
+		}
+	]
+}
