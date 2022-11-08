@@ -10,7 +10,7 @@ Contents
 
 RestClientBuilder - The REST client builder.
 
-RestClientBuilderUnitTests - A Unit test that demonstrates the usage of generated traffic C# classes
+DummyConsumer - A console app that demonstrates the usage of generated traffic C# classes
 
 DummyAPI - A simple API that uses Swagger
 
@@ -27,8 +27,8 @@ Sample Traffic Generate JSON File
 
 {
 	"baseUrlDefault": "http://updateTheBaseUrlInYourFacade/",
-	"cSharpOutputPathRootDirectory": "C:\\src\\FodderFramework\\ChrisRestClientBuilder\\ChrisRestClientBuilderUnitTests\\Generated\\CSharp",
-	"typeScriptOutputPathRootDirectory":"C:\\src\\FodderFramework\\ChrisRestClientBuilder\\ChrisRestClientBuilderUnitTests\\Generated\\TS",
+	"cSharpOutputPathRootDirectory": "C:\\Generated\\CSharp",
+	"typeScriptOutputPathRootDirectory":"C:\\ChrisRestClientBuilderUnitTests\\Generated\\TS",
 	"swaggerSpecs": [
 		{
 			"importSwaggerURL": "http://localhost/SystemAdminServices/swagger/docs/v2",
